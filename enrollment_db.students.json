@@ -1,0 +1,429 @@
+[{
+  "_id": {
+    "$oid": "674d76da3a32f9089e589d5e"
+  },
+  "first_name": "Ronnel ",
+  "last_name": "Baluyut",
+  "email": "rd@gmail.com",
+  "date_of_birth": "101003",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T16:59:06.303Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d78403a32f9089e589d5f"
+  },
+  "first_name": "Jonas",
+  "last_name": "Espino",
+  "email": "je@gmail.com",
+  "date_of_birth": "040504",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:05:04.422Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d78fa3a32f9089e589d60"
+  },
+  "first_name": "james",
+  "last_name": "dean",
+  "email": "jd@gmail.com",
+  "date_of_birth": "111111",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:08:10.848Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d79303a32f9089e589d61"
+  },
+  "first_name": "kebs",
+  "last_name": "sadf",
+  "email": "ks@gmail.com",
+  "date_of_birth": "1232022",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:09:04.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d794d3a32f9089e589d62"
+  },
+  "first_name": "JM",
+  "last_name": "Dimabuyu",
+  "email": "jmd@gmail.com",
+  "date_of_birth": "121003",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:09:33.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d79773a32f9089e589d63"
+  },
+  "first_name": "Javan",
+  "last_name": "Yumang",
+  "email": "jy@gmail.com",
+  "date_of_birth": "060403",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:10:15.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d799b3a32f9089e589d64"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "jo@gmail.com",
+  "date_of_birth": "092604",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:10:51.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d79ca3a32f9089e589d65"
+  },
+  "first_name": "Faith",
+  "last_name": "Soriano",
+  "email": "fs@gmail.com",
+  "date_of_birth": "010103",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:11:38.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d79e63a32f9089e589d66"
+  },
+  "first_name": "Cherry ",
+  "last_name": "Cruz",
+  "email": "cc@gmail.com",
+  "date_of_birth": "090704",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:12:06.090Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7a183a32f9089e589d67"
+  },
+  "first_name": "Eleo",
+  "last_name": "Manalo",
+  "email": "em@gmail.com",
+  "date_of_birth": "061204",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:12:56.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7a3c3a32f9089e589d68"
+  },
+  "first_name": "Rai",
+  "last_name": "Hernandez",
+  "email": "rh@gmail.com",
+  "date_of_birth": "021604",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:13:32.452Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7a6b3a32f9089e589d69"
+  },
+  "first_name": "Chie",
+  "last_name": "Torres",
+  "email": "ct@gmail.com",
+  "date_of_birth": "041504",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:14:19.161Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7a8d3a32f9089e589d6a"
+  },
+  "first_name": "Cristine ",
+  "last_name": "Cunanan",
+  "email": "cr@gmail.com",
+  "date_of_birth": "091804",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:14:53.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7aaf3a32f9089e589d6b"
+  },
+  "first_name": "Ed",
+  "last_name": "Sys",
+  "email": "es@gmail.com",
+  "date_of_birth": "101001",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:15:27.143Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7ade3a32f9089e589d6c"
+  },
+  "first_name": "Jan",
+  "last_name": "Maron",
+  "email": "jm@gmail.com",
+  "date_of_birth": "031904",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:16:14.326Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7b053a32f9089e589d6d"
+  },
+  "first_name": "Kris",
+  "last_name": "Badal",
+  "email": "Kb@gmail.com",
+  "date_of_birth": "050505",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:16:53.723Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7b263a32f9089e589d6e"
+  },
+  "first_name": "Silver",
+  "last_name": "Munoz",
+  "email": "sm@gmail.com",
+  "date_of_birth": "072204",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:17:26.842Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7b4b3a32f9089e589d6f"
+  },
+  "first_name": "Nico",
+  "last_name": "Gozun",
+  "email": "ng@gmail.com",
+  "date_of_birth": "060603",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:18:03.743Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7b803a32f9089e589d70"
+  },
+  "first_name": "Therese",
+  "last_name": "Francis",
+  "email": "tf@gmail.com",
+  "date_of_birth": "030303",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:18:56.791Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7ba23a32f9089e589d71"
+  },
+  "first_name": "Luke ",
+  "last_name": "Cruz",
+  "email": "lc@gmail.com",
+  "date_of_birth": "080804",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:19:30.210Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7bd93a32f9089e589d72"
+  },
+  "first_name": "Kate",
+  "last_name": "Pineda",
+  "email": "kp@gmail.com",
+  "date_of_birth": "012804",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:20:25.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7c0d3a32f9089e589d73"
+  },
+  "first_name": "Liam",
+  "last_name": "Will",
+  "email": "lw@gmail.com",
+  "date_of_birth": "050704",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:21:17.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7c253a32f9089e589d74"
+  },
+  "first_name": "Belle",
+  "last_name": "Millan",
+  "email": "bm@gmail.com",
+  "date_of_birth": "092604",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:21:41.571Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7c593a32f9089e589d75"
+  },
+  "first_name": "Sophia",
+  "last_name": "Baluyut",
+  "email": "sb@gmail.com",
+  "date_of_birth": "080803",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:22:33.438Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7c893a32f9089e589d77"
+  },
+  "first_name": "Eli",
+  "last_name": "Samson",
+  "email": "el@gmail.com",
+  "date_of_birth": "111704",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:23:21.702Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7cb63a32f9089e589d78"
+  },
+  "first_name": "Noah",
+  "last_name": "Cabrera",
+  "email": "nc@gmail.com",
+  "date_of_birth": "100203",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:24:06.412Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7ce23a32f9089e589d79"
+  },
+  "first_name": "Emma",
+  "last_name": "Lenio",
+  "email": "ee@gmail.com",
+  "date_of_birth": "020202",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:24:50.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7d063a32f9089e589d7a"
+  },
+  "first_name": "Ava",
+  "last_name": "Cervan",
+  "email": "av@gmail.com",
+  "date_of_birth": "121202",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:25:26.520Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7d253a32f9089e589d7b"
+  },
+  "first_name": "Mia",
+  "last_name": "Yang",
+  "email": "my@gmail.com",
+  "date_of_birth": "082904",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:25:57.930Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7d423a32f9089e589d7c"
+  },
+  "first_name": "Angel",
+  "last_name": "Hill",
+  "email": "ah@gmail.com",
+  "date_of_birth": "121804",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:26:26.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7d583a32f9089e589d7d"
+  },
+  "first_name": "Mary",
+  "last_name": "Wood",
+  "email": "mw@gmail.com",
+  "date_of_birth": "011504",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:26:48.510Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d7d703a32f9089e589d7e"
+  },
+  "first_name": "Melo",
+  "last_name": "Green",
+  "email": "mg@gmail.com",
+  "date_of_birth": "061503",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:27:12.701Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "674d8d65cac10c36c589159f"
+  },
+  "first_name": "qwery",
+  "last_name": "facess",
+  "email": "qs@gmail.com",
+  "date_of_birth": "032304",
+  "major": "BSIT",
+  "enrollment_date": {
+    "$date": "2024-12-02T18:35:17.795Z"
+  }
+}]

@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "674d7dc03a32f9089e589d7f"
+  },
+  "course_id": "IM101",
+  "course_name": "Advanced Database Systems",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "Marsha Lintag"
+},
+{
+  "_id": {
+    "$oid": "674d7dde3a32f9089e589d80"
+  },
+  "course_id": "NET102",
+  "course_name": "Networking 2",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "Thelma Miranda"
+},
+{
+  "_id": {
+    "$oid": "674d7e0c3a32f9089e589d81"
+  },
+  "course_id": "SIA101",
+  "course_name": "System Integration and Architecture 1",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "Rizza Baltazar"
+},
+{
+  "_id": {
+    "$oid": "674d7e283a32f9089e589d82"
+  },
+  "course_id": "GV101",
+  "course_name": "Graphics and Visual Computing",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "OJ Liwanag"
+},
+{
+  "_id": {
+    "$oid": "674d7e423a32f9089e589d83"
+  },
+  "course_id": "PF102",
+  "course_name": "Event Driven Programming",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "JB Roman"
+},
+{
+  "_id": {
+    "$oid": "674d7e633a32f9089e589d84"
+  },
+  "course_id": "SAD",
+  "course_name": "Systems Analysis and Design",
+  "department": "DCS",
+  "credits": 3,
+  "instructor": "Melanie Crisostomo"
+},
+{
+  "_id": {
+    "$oid": "674d7e913a32f9089e589d85"
+  },
+  "course_id": "GE ELEC SSP",
+  "course_name": "Gender and Society ",
+  "department": "CAS",
+  "credits": 2,
+  "instructor": "Leslie Cuervo"
+}]

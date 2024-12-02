@@ -1,0 +1,266 @@
+[{
+  "_id": {
+    "$oid": "674d7ea83a32f9089e589d86"
+  },
+  "student_id": {
+    "$oid": "674d76da3a32f9089e589d5e"
+  },
+  "course_id": "IM101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:32:24.719Z"
+  },
+  "grade": "A"
+},
+{
+  "_id": {
+    "$oid": "674d7eb53a32f9089e589d87"
+  },
+  "student_id": {
+    "$oid": "674d76da3a32f9089e589d5e"
+  },
+  "course_id": "NET102",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:32:37.623Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7ecb3a32f9089e589d88"
+  },
+  "student_id": {
+    "$oid": "674d76da3a32f9089e589d5e"
+  },
+  "course_id": "SIA101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:32:59.666Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7ed73a32f9089e589d89"
+  },
+  "student_id": {
+    "$oid": "674d78403a32f9089e589d5f"
+  },
+  "course_id": "GV101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:33:11.204Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7edf3a32f9089e589d8a"
+  },
+  "student_id": {
+    "$oid": "674d78403a32f9089e589d5f"
+  },
+  "course_id": "PF102",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:33:19.668Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7eea3a32f9089e589d8b"
+  },
+  "student_id": {
+    "$oid": "674d78403a32f9089e589d5f"
+  },
+  "course_id": "SAD",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:33:30.178Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7ef83a32f9089e589d8c"
+  },
+  "student_id": {
+    "$oid": "674d78fa3a32f9089e589d60"
+  },
+  "course_id": "GE ELEC SSP",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:33:44.066Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f093a32f9089e589d8d"
+  },
+  "student_id": {
+    "$oid": "674d79303a32f9089e589d61"
+  },
+  "course_id": "GE ELEC SSP",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:01.265Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f143a32f9089e589d8e"
+  },
+  "student_id": {
+    "$oid": "674d79303a32f9089e589d61"
+  },
+  "course_id": "IM101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:12.261Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f1c3a32f9089e589d8f"
+  },
+  "student_id": {
+    "$oid": "674d79303a32f9089e589d61"
+  },
+  "course_id": "NET102",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:20.450Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f2c3a32f9089e589d90"
+  },
+  "student_id": {
+    "$oid": "674d794d3a32f9089e589d62"
+  },
+  "course_id": "NET102",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:36.494Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f383a32f9089e589d91"
+  },
+  "student_id": {
+    "$oid": "674d79773a32f9089e589d63"
+  },
+  "course_id": "SIA101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:48.894Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f403a32f9089e589d92"
+  },
+  "student_id": {
+    "$oid": "674d79773a32f9089e589d63"
+  },
+  "course_id": "GV101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:34:56.820Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f483a32f9089e589d93"
+  },
+  "student_id": {
+    "$oid": "674d79773a32f9089e589d63"
+  },
+  "course_id": "PF102",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:35:04.573Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f503a32f9089e589d94"
+  },
+  "student_id": {
+    "$oid": "674d79773a32f9089e589d63"
+  },
+  "course_id": "SAD",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:35:12.752Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f5c3a32f9089e589d95"
+  },
+  "student_id": {
+    "$oid": "674d799b3a32f9089e589d64"
+  },
+  "course_id": "SAD",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:35:24.182Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f653a32f9089e589d96"
+  },
+  "student_id": {
+    "$oid": "674d799b3a32f9089e589d64"
+  },
+  "course_id": "GE ELEC SSP",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:35:33.151Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d7f723a32f9089e589d97"
+  },
+  "student_id": {
+    "$oid": "674d79ca3a32f9089e589d65"
+  },
+  "course_id": "IM101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T17:35:46.841Z"
+  },
+  "grade": null
+},
+{
+  "_id": {
+    "$oid": "674d8d87cac10c36c58915a0"
+  },
+  "student_id": {
+    "$oid": "674d8d65cac10c36c589159f"
+  },
+  "course_id": "SIA101",
+  "semester": "1",
+  "enrollment_date": {
+    "$date": "2024-12-02T18:35:51.990Z"
+  },
+  "grade": "F"
+}]
